@@ -2,3 +2,5 @@ WPU EXPERIMENT
 - konsisten untuk terus belajar bahasa pemrograman 
 - membuat website
 - belajar python, php, css sampai ke java script
+- mahir dalam vs code
+- mempelajari dan mahir dengan blender 3d
