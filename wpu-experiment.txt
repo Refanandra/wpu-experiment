@@ -4,3 +4,4 @@ WPU EXPERIMENT
 - mahir dalam vs code
 - mempelajari dan mahir dengan blender 3d
 - membuat koneksi antara github dan visual studio
+- berhasil membuat koneksi github dan visual studio
