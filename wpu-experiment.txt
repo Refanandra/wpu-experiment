@@ -5,3 +5,4 @@ WPU EXPERIMENT
 - mempelajari dan mahir dengan blender 3d
 - membuat koneksi antara github dan visual studio
 - berhasil membuat koneksi github dan visual studio
+- test poin 8
