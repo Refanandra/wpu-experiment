@@ -3,3 +3,4 @@ WPU EXPERIMENT
 - belajar python, php, css sampai ke java script
 - mahir dalam vs code
 - mempelajari dan mahir dengan blender 3d
+- membuat koneksi antara github dan visual studio
